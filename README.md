@@ -11,6 +11,8 @@ Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu cur
 ![VS](https://img.shields.io/badge/VSCode-000.svg?style=for-the-badge&logo=open&logoColor=30A3DC)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-marcelus)

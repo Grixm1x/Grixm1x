@@ -15,7 +15,7 @@ Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu cur
 
 
 ## Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-marcelus)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcelus/)
 [![Intagram](https://img.shields.io/badge/intagram-0A66C2?style=for-the-badge&logo=instagram)](https://www.instagram.com/_marcelusjh__/)
 [![Gmail](https://img.shields.io/badge/Gmail-366?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaomarcelus6@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/DDI+DDD+5561984097136)

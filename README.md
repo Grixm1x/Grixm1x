@@ -1,4 +1,3 @@
-## Meu nome é João Macelus
 ## Sobre mim
 Sou João Marcelus, tenho um apreço muito grande por tecnologia, pois, ja tenho interação com ela desde mais novo, tenho conhecimento nas linguagens de programação(Java,JavaScript,C e agora estou desenvolvendo a habilidade em python), sou um dev FULL STACK, tenho interesse na area Inteligencia Artificial e eu estou estudando para poder dominar essa area e poder desfrutar e criar novas coisas a partir dela, bosco ficar fluente em igles e estou no processo, atualmente estou nivel B1, mas pretendo aumentar ainda mais meu lever e alcançar a fluência.
 

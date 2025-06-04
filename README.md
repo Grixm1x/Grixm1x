@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou João Marcelus, tenho um apreço muito grande por tecnologia, pois, ja tenho interação com ela desde mais novo, tenho conhecimento nas linguagens de programação(Java,JavaScript,C e agora estou desenvolvendo a habilidade em python), sou um dev FULL STACK, tenho interesse na area Inteligencia Artificial e eu estou estudando para poder dominar essa area e poder desfrutar e criar novas coisas a partir dela, bosco ficar fluente em igles e estou no processo, atualmente estou nivel B1, mas pretendo aumentar ainda mais meu lever e alcançar a fluência.
+Sou João Marcelus, tenho um apreço muito grande por tecnologia, tenho conhecimento nas linguagens de programação(Java,JavaScript,C, python), sou um dev FULL STACK, tenho interesse na area Inteligencia Artificial, estou em busca da fluencia em igles e alemão, atualmente estou nivel B1 low-intermediario no ingles e A1 no alemão.
 
 Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu curso tecnico em Programador Web
 ## Habilidades
@@ -12,8 +12,6 @@ Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu cur
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
 
-
-
 ## Conecte-se comigo
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcelus/)
 [![Intagram](https://img.shields.io/badge/intagram-0A66C2?style=for-the-badge&logo=instagram)](https://www.instagram.com/_marcelusjh__/)
@@ -22,7 +20,6 @@ Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu cur
 
 ## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grixm1x&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Grixm1x&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)

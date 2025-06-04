@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou João Marcelus, tenho um apreço muito grande por tecnologia, tenho conhecimento nas linguagens de programação(Java,JavaScript,C, python), sou um dev FULL STACK, tenho interesse na area Inteligencia Artificial, estou em busca da fluencia em igles e alemão, atualmente estou nivel B1 low-intermediario no ingles e A1 no alemão.
+Sou João Marcelus, tenho um apreço muito grande por tecnologia, tenho conhecimento nas linguagens de programação(Java,JavaScript,C, python), sou um dev FULL STACK, tenho interesse na area Inteligencia Artificial, estou em busca da fluencia em igles e alemão, atualmente estou nivel B1 no ingles e A1 no alemão.
 
 Sou Estudante de Ciencias da Computação na UNICEUB e estou finalizando meu curso tecnico em Programador Web
 ## Habilidades
